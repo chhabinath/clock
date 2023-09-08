@@ -17,7 +17,7 @@ This is a simple clock web application that displays the current time and whethe
 git clone https://github.com/your-username/clock-app.git
 ```
 
-2. Open the `index.html` file in your web browser to view the clock app or [click here]() 
+2. Open the `index.html` file in your web browser to view the clock app or [click here](https://chhabinath.github.io/clock/) 
 
 ## Usage
 
